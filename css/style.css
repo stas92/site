@@ -10,4 +10,8 @@ p{
 }
 h1{
 	font-size: 30px;
+	background-color: red;
+}
+p{
+	font-size: 14px;
 }
